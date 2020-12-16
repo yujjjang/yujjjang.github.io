@@ -1,0 +1,11 @@
+main:
+  - title: "Django"
+    url: /Kaggle/
+  - title: "All Posts"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
